@@ -1,2 +1,47 @@
 # PythonLearningW3
 Studys about Python on Jupyter Notebook with W3 School tutorials.
+
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" title="source: imgur.com" width="300" align="center"/></a> 
+
+
+
+## Road Map
+
+Python Tutorial
+
+- Python Syntax
+- Python Comments
+- Python Variables
+- Python Data Types
+- Python Numbers
+- Python Casting
+- Python Strings
+- Python Booleans
+- Python Operators
+- Python Lists
+- Python Tuples
+- Python Sets
+- Python Dictionaries
+- Python If...Else
+- Python While Loops
+- Python For Loops
+- Python Functions
+- Python Lambda
+- Python Arrays
+- Python Classes/Objects
+- Python Inheritance
+- Python Iterators
+- Python Scope
+- Python Modules
+- Python Dates
+- Python Math
+- Python JSON
+- Python RegEx
+- Python PIP
+- Python Try...Except
+- Python User Input
+- Python String Formatting
+
+Credits/Content - https://www.w3schools.com/python/default.asp
+
+Jupyter Notebook for Study and run codes - Lucas Barcat
