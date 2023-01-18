@@ -10,7 +10,7 @@ Studys about Python on Jupyter Notebook with W3 School tutorials.
 Python Tutorial
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" title="source: imgur.com" width="80" align="center"/></a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" title="source: imgur.com" width="40" align="center"/></a> 
 
 
 - Python Syntax ✔️
