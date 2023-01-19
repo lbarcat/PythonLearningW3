@@ -18,8 +18,8 @@ Python Tutorial
 - Python Variables ✔️
 - Python Data Types ✔️
 - Python Numbers ✔️
-- Python Casting ⌚
-- Python Strings ⌚
+- Python Casting ✔️
+- Python Strings ✔️
 - Python Booleans ⌚
 - Python Operators ⌚
 - Python Lists ⌚
@@ -45,6 +45,37 @@ Python Tutorial
 - Python Try...Except ⌚
 - Python User Input ⌚
 - Python String Formatting ⌚
+
+File Handling
+
+- Python File Handling ⌚
+- Python Read Files ⌚
+- Python Write/Create Files ⌚
+- Python Delete Files ⌚
+
+Python Modules
+
+- Numpy Tutorial ⌚
+- Pandas Tutorial ⌚
+- SciPy Tutorial ⌚
+- Django Tutorial ⌚
+
+Python Matplotlib
+
+- Matplotlib Intro ⌚
+- Matplotlib Get Started ⌚
+- Matplotlib Pyplot ⌚
+- Matplotlib Plotting ⌚
+- Matplotlib Markers ⌚
+- Matplotlib Line ⌚
+- Matplotlib Labels ⌚
+- Matplotlib Grid ⌚
+- Matplotlib Subplot ⌚
+- Matplotlib Scatter ⌚
+- Matplotlib Bars ⌚
+- Matplotlib Histograms ⌚
+- Matplotlib Pie Charts ⌚
+
 
 
 Credits/Content - https://www.w3schools.com/python/default.asp
