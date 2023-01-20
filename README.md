@@ -20,11 +20,11 @@ Python Tutorial
 - Python Numbers ✔️
 - Python Casting ✔️
 - Python Strings ✔️
-- Python Booleans ⌚
-- Python Operators ⌚
-- Python Lists ⌚
-- Python Tuples ⌚
-- Python Sets ⌚
+- Python Booleans ✔️
+- Python Operators ✔️
+- Python Lists ✔️
+- Python Tuples ✔️
+- Python Sets ✔️
 - Python Dictionaries ⌚
 - Python If...Else ⌚
 - Python While Loops ⌚
