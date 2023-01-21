@@ -25,7 +25,7 @@ Python Tutorial
 - Python Lists ✔️
 - Python Tuples ✔️
 - Python Sets ✔️
-- Python Dictionaries ⌚
+- Python Dictionaries ✔️
 - Python If...Else ⌚
 - Python While Loops ⌚
 - Python For Loops ⌚
