@@ -29,8 +29,8 @@ Python Tutorial
 - Python If...Else ✔️
 - Python While Loops ✔️
 - Python For Loops ✔️
-- Python Functions ⌚
-- Python Lambda ⌚
+- Python Functions ✔️
+- Python Lambda ✔️
 - Python Arrays ⌚
 - Python Classes/Objects ⌚
 - Python Inheritance ⌚
