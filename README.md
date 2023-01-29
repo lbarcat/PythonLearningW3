@@ -31,7 +31,7 @@ Python Tutorial
 - Python For Loops ✔️
 - Python Functions ✔️
 - Python Lambda ✔️
-- Python Arrays ⌚
+- Python Arrays ✔️
 - Python Classes/Objects ⌚
 - Python Inheritance ⌚
 - Python Iterators ⌚
