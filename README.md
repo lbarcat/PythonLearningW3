@@ -32,7 +32,7 @@ Python Tutorial
 - Python Functions ✔️
 - Python Lambda ✔️
 - Python Arrays ✔️
-- Python Classes/Objects ⌚
+- Python Classes/Objects ✔️
 - Python Inheritance ⌚
 - Python Iterators ⌚
 - Python Scope ⌚
