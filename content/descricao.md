@@ -19,3 +19,7 @@
 - **Python Casting:**
 
     O casting em Python é o processo de **conversão de um tipo de dado para outro**. Isso é útil quando você precisa trabalhar com valores de diferentes tipos de dados, por exemplo, convertendo uma string em um número inteiro ou um número inteiro em uma string. O casting pode ser feito explicitamente, usando funções como int(), float(), str(), entre outras, ou implicitamente, dependendo do contexto. É importante garantir que o casting seja apropriado para o tipo de dado que você está trabalhando, para evitar erros no seu código.
+
+- **Python String:**
+
+    A string em Python é uma **sequência de caracteres** usada para representar **texto**. É usada para armazenar e manipular dados de texto, como **palavras, frases, nomes, etc**. Alguns exemplos de uso incluem: armazenar informações de usuários, processamento de texto, geração de texto com base em dados, etc.
