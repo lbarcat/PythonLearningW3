@@ -121,3 +121,15 @@
 - **Python PIP:**
 
     O pip (acrônimo para "Package Installer for Python") é um **gerenciador de pacotes para o Python que permite instalar e gerenciar módulos e bibliotecas externas** para o seu projeto Python. Ele permite buscar e instalar pacotes de terceiros do PyPI (Python Package Index), que é uma grande coleção de pacotes Python disponíveis na internet.
+
+- **Python Try/Except:**
+
+    O bloco try e except no Python é utilizado para **tratar erros e exceções que podem ocorrer em um programa**. O bloco try é usado para colocar o código que pode lançar uma exceção, enquanto o bloco except é usado para capturar e tratar essa exceção. Isso permite que o programa continue a executar mesmo quando uma exceção ocorre, em vez de parar abruptamente. Além disso, o except permite que você forneça uma mensagem de erro personalizada ou tome outras medidas para lidar com a exceção.
+
+- **Python User Input:**
+
+    A função input em Python é usada para **obter entrada do usuário em tempo de execução**. Isso permite que seu programa seja interativo, pois permite que o usuário forneça informações para o programa enquanto ele está sendo executado. A função input retorna a entrada do usuário como uma string, que pode ser convertida para outro tipo de dados, como inteiro ou float, conforme necessário. Por exemplo, você pode usar a função input para pedir ao usuário que insira um nome ou uma resposta a uma pergunta, e em seguida, usar essa entrada para personalizar a saída do seu programa.
+
+- **Python String Formating:**
+
+    A formatação de strings no Python é uma **técnica para criar strings de saída formatadas**, geralmente com valores inseridos em uma string. Isso é útil para exibir informações de maneira legível e agradável ao usuário. A formatação de strings no Python pode ser realizada usando vários métodos, incluindo a interpolação de strings (com o operador %) e a formatação f-strings (disponível a partir do Python 3.6).
