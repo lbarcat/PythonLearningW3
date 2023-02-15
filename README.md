@@ -33,10 +33,10 @@ Python Tutorial
 - Python Lambda ✔️
 - Python Arrays ✔️
 - Python Classes/Objects ✔️
-- Python Inheritance ⌚
-- Python Iterators ⌚
-- Python Scope ⌚
-- Python Modules ⌚
+- Python Inheritance ✔️
+- Python Iterators ✔️
+- Python Scope ✔️
+- Python Modules ✔️
 - Python Dates ⌚
 - Python Math ⌚
 - Python JSON ⌚
