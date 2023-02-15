@@ -76,7 +76,96 @@ Python Matplotlib
 - Matplotlib Histograms ⌚
 - Matplotlib Pie Charts ⌚
 
+Machine Learning
 
+- Getting Started ⌚
+- Mean Median Mode ⌚
+- Standard Deviation ⌚
+- Percentile ⌚
+- Data Distribution ⌚
+- Normal Data Distribution ⌚
+- Scatter Plot ⌚
+- Linear Regression ⌚
+- Polynomial Regression ⌚
+- Multiple Regression ⌚
+- Scale ⌚
+- Train/Test ⌚
+- Decision Tree ⌚
+- Confusion Matrix ⌚
+- Hierarchical Clustering ⌚
+- Logistic Regression ⌚
+- Grid Search ⌚
+- Categorical Data ⌚
+- K-means ⌚
+- Bootstrap Aggregation ⌚
+- Cross Validation ⌚
+- AUC - ROC Curve ⌚
+- K-nearest neighbors ⌚
+
+Python MySQL
+
+- MySQL Get Started ⌚
+- MySQL Create Database ⌚
+- MySQL Create Table ⌚
+- MySQL Insert ⌚
+- MySQL Select ⌚
+- MySQL Where ⌚
+- MySQL Order By ⌚
+- MySQL Delete ⌚
+- MySQL Drop Table ⌚
+- MySQL Update ⌚
+- MySQL Limit ⌚
+- MySQL Join ⌚
+
+Python MongoDB
+
+- MongoDB Get Started ⌚
+- MongoDB Create Database ⌚
+- MongoDB Create Collection ⌚
+- MongoDB Insert ⌚
+- MongoDB Find ⌚
+- MongoDB Query ⌚
+- MongoDB Sort ⌚
+- MongoDB Delete ⌚
+- MongoDB Drop Collection ⌚
+- MongoDB Update ⌚
+- MongoDB Limit ⌚
+
+Python Reference
+
+- Python Overview ⌚
+- Python Built-in Functions ⌚
+- Python String Methods ⌚
+- Python List Methods ⌚
+- Python Dictionary Methods ⌚
+- Python Tuple Methods ⌚
+- Python Set Methods ⌚
+- Python File Methods ⌚
+- Python Keywords ⌚
+- Python Exceptions ⌚
+- Python Glossary ⌚
+
+Module Reference
+
+- Random Module ⌚
+- Requests Module ⌚
+- Statistics Module ⌚
+- Math Module ⌚
+- cMath Module ⌚
+
+Python How To
+
+- Remove List Duplicates ⌚
+- Reverse a String ⌚
+- Add Two Numbers ⌚
+
+Python Examples
+
+- Python Examples ⌚
+- Python Compiler ⌚
+- Python Exercises ⌚
+- Python Quiz ⌚
+- Python Certificate ⌚
 
 Credits/Content - https://www.w3schools.com/python/default.asp
 
