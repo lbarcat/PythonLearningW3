@@ -37,8 +37,8 @@ Python Tutorial
 - Python Iterators ✔️
 - Python Scope ✔️
 - Python Modules ✔️
-- Python Dates ⌚
-- Python Math ⌚
+- Python Dates ✔️
+- Python Math ✔️
 - Python JSON ⌚
 - Python RegEx ⌚
 - Python PIP ⌚
