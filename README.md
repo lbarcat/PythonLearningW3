@@ -7,11 +7,9 @@ Studys about Python on Jupyter Notebook with W3 School tutorials.
 
 ## Road Map
 
-Python Tutorial
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/1200px-W3Schools_logo.svg.png" title="source: imgur.com" width="40" align="center"/></a> 
 
+Python Tutorial
 
 - Python Syntax ✔️
 - Python Comments ✔️
