@@ -42,9 +42,9 @@ Python Tutorial
 - Python JSON ✔️
 - Python RegEx ✔️
 - Python PIP ✔️
-- Python Try...Except ⌚
-- Python User Input ⌚
-- Python String Formatting ⌚
+- Python Try...Except ✔️
+- Python User Input ✔️
+- Python String Formatting ✔️
 
 File Handling
 
