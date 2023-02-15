@@ -40,8 +40,8 @@ Python Tutorial
 - Python Dates ✔️
 - Python Math ✔️
 - Python JSON ✔️
-- Python RegEx ⌚
-- Python PIP ⌚
+- Python RegEx ✔️
+- Python PIP ✔️
 - Python Try...Except ⌚
 - Python User Input ⌚
 - Python String Formatting ⌚
