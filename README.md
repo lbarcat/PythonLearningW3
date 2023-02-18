@@ -46,10 +46,10 @@ Python Tutorial
 
 File Handling
 
-- Python File Handling ⌚
-- Python Read Files ⌚
-- Python Write/Create Files ⌚
-- Python Delete Files ⌚
+- Python File Handling ✔️
+- Python Read Files ✔️
+- Python Write/Create Files ✔️
+- Python Delete Files ✔️
 
 Python Modules
 
