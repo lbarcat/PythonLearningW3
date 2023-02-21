@@ -60,11 +60,11 @@ Python Modules
 
 Python Matplotlib
 
-- Matplotlib Intro ⌚
-- Matplotlib Get Started ⌚
-- Matplotlib Pyplot ⌚
-- Matplotlib Plotting ⌚
-- Matplotlib Markers ⌚
+- Matplotlib Intro ✔️
+- Matplotlib Get Started ✔️
+- Matplotlib Pyplot ✔️
+- Matplotlib Plotting ✔️
+- Matplotlib Markers ✔️
 - Matplotlib Line ⌚
 - Matplotlib Labels ⌚
 - Matplotlib Grid ⌚
